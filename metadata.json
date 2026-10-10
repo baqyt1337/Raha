@@ -1,0 +1,6 @@
+{
+  "name": "Erbolat Rahmetolla — Medical Portfolio | ZKMU",
+  "description": "Портфолио студента 2 курса Западно-Казахстанского Медицинского университета им. Марата Оспанова Ерболата Рахметолла в стиле Liquid Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
